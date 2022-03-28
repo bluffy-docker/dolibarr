@@ -1,0 +1,1 @@
+Dolibarr with libreoffice installed
