@@ -1,4 +1,4 @@
-FROM tuxgasy/dolibarr:15
+FROM tuxgasy/dolibarr:16
 
 #v15.0.2
 
